@@ -4,7 +4,8 @@
 // @description  Open KissAnime direct link in VLC
 // @author       asdaa
 // @namespace    asdaa
-// @license         WTFPl
+// @license      WTFPl
+// @updateURL    https://github.com/asdaa0/msgrelay/raw/gh-pages/KAVLC.user.js
 // @include      *
 // @run-at       document-start
 // @grant        none
