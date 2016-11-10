@@ -2,13 +2,12 @@
 // @name         KissAnime in VLC
 // @version      0.1
 // @description  Open KissAnime direct link in VLC
-// @author       You
-// @matches      http://*/*
-// @matches      https://*/*
-// @matches      file:///*
-// @matches      ftp://*/*
+// @author       asdaa
+// @namespace    asdaa
+// @license         WTFPl
+// @include      *
 // @run-at       document-start
-// @grant        unsafeWindow
+// @grant        none
 // ==/UserScript==
 
 window.addEventListener ("DOMContentLoaded", function() {
